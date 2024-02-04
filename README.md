@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/SarthakN303/youtube-clone-react.git
+git clone https://github.com/SarthakN303/Youtube_clone.git
 Change to the project directory:
 
 bash
