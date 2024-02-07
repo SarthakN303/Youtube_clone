@@ -17,14 +17,7 @@ A YouTube Clone App built with React.js, Tailwind CSS, and powered by the YouTub
 
 ## Prerequisites
 
-<<<<<<< HEAD
 Before you begin, ensure you have the following installed:
-=======
-bash
-Copy code
-git clone https://github.com/SarthakN303/Youtube_clone.git
-Change to the project directory:
->>>>>>> 82090f8fd2c964474dc240d0600a40d19b974bcb
 
 - Node.js and npm - [Download and install Node.js](https://nodejs.org/)
 
